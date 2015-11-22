@@ -26,7 +26,7 @@ gems:      []
 
 # Conversion
 markdown:    kramdown
-highlighter: rouge
+highlighter: pyments
 lsi:         false
 excerpt_separator: "\n\n"
 

@@ -10,7 +10,7 @@
     {% if site.enforce_ssl %}
     <!--
       redirect users to the https version of the website.
-      but: only check when on the production domain, as set in _config.yml.
+      but: only check when on the production domain, as set in _data/global.yml.
      -->
     <script type="text/javascript">
       var enforce = "{{ site.enforce_ssl }}";

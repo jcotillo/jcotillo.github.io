@@ -3,11 +3,11 @@ title: 'Can I be your next code hero?'
 description: 'the mishaps of a junior developer trying to make it'
 url: 'https://jcotillo.github.io' # the base hostname & protocol for your site
 enforce_ssl: jcotillo.github.io
-footer_text: 'Holla to pair with me'
+footer_text: 'Wanna pair with me? Holla at me'
 
 # Admin Settings
 admin_name: 'Julissa Cotillo'
 admin_email: 'julissacotillo@gmail.com'
-twitter: 'jujuco_'
+twitter: 'https://twitter.com/jujuco_'
 github: 'jcotillo'
 linkedin: 'julissacotillo'
