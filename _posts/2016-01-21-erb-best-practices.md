@@ -6,7 +6,7 @@ tags: html css javascript rails
 featured_image: 'https://media.giphy.com/media/12WggcrCyNFoti/giphy.gif'
 lead_text: 'Front-end practices for rails 3 projects in the age of rails 5'
 ---
-Working with legacy code can have a lot of [advantages](http://blog.arkency.com/2015/10/advantages-of-working-on-a-legacy-rails-application/) but as a new developer, it can also be really intimidating and confusing. Not only is the complexity level over your head, but at least in my experience, it doesn't follow homogeneous conventions or practices. In the spirit of establishing conventions and encourage coherence, the following are some of the practices that have stuck as I worked on the front-end for labs platform Kipu is soon to launch.
+Working with legacy code can have a lot of [advantages](http://blog.arkency.com/2015/10/advantages-of-working-on-a-legacy-rails-application/) but as a new developer, it can also be really intimidating and confusing. Not only is the complexity level over your head, but at least in my experience, it doesn't follow homogeneous conventions or practices. In the spirit of establishing conventions and encourage coherence, the following are some of the practices that have stuck as I worked on the front-end for a new product at work.
 
 *Rails '3.2.22', Ruby '2.2.3' & bootstrap 3*
 
