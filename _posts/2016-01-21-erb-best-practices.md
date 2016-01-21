@@ -10,7 +10,7 @@ Working with legacy code can have a lot of [advantages](http://blog.arkency.com/
 
 *Rails '3.2.22', Ruby '2.2.3' & bootstrap 3*
 
- Internalization
+  Internationalization
 ------
    Remember one of the most meaningful assets you possess is **information**. Your application offers the users a unique way of showing them information they want to see. Incorporating internalization practices early on the development cycle can save you headaches in the future when you are requested to support pirate english, or when you are requested to rename all 'name' attributes of all your models to 'title' or what not.
 
