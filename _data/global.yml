@@ -1,6 +1,5 @@
 # Site Settings
-title: 'Can I be your next code hero?'
-description: 'the mishaps of a junior developer trying to make it'
+title: 'Code and beyond!'
 url: 'https://jcotillo.github.io' # the base hostname & protocol for your site
 enforce_ssl: jcotillo.github.io
 footer_text: 'Wanna pair with me? Holla at me'
