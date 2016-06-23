@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Julissa E Cotillo
-permalink: /about/
+permalink: /resume/
 ---
 Full stack web developer with experience with Ruby on Rails & JavaScript in the medical records field. Trained at a coding bootcamp with a B.A. in Economics & International Relations. Passionate about functional and modern software development, and easily excited over maintainable code.
 

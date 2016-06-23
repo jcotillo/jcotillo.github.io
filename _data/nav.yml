@@ -1,4 +1,4 @@
 main:
     - { url: '/', text: 'Blog' }
-    - { url: '/about', text: 'Resume' }
+    - { url: '/resume', text: 'Resume' }
     - { url: 'https://github.com/jcotillo', text: 'GitHub' }
