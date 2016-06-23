@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Julissa E Cotillo
-permalink: /Resume/
+permalink: /about/
 ---
 Full stack web developer with experience with Ruby on Rails & JavaScript in the medical records field. Trained at a coding bootcamp with a B.A. in Economics & International Relations. Passionate about functional and modern software development, and easily excited over maintainable code.
 
@@ -33,7 +33,5 @@ An event-tracking tool that rewards users and small businesses with economic  in
 ## EDUCATION
 
 ### Ironhack (2015-01 — 2015-01)
-
-
 
 ### Boston University (2010-01 — 2014-01)
