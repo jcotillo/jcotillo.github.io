@@ -40,6 +40,9 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
     background: #086AFF;
     color: #fff;
 }
+img {
+
+}
 nav.navbar {
     margin: 0;
 
@@ -269,7 +272,8 @@ aside {
 }
 
 pre {
-    margin: 75px -100px;
+    width: 50%;
+    height: 50%;
 }
 
 

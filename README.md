@@ -1,6 +1,5 @@
 
-Repo for my technical blog.
-
+Repo for my technical blog & personal page.
 
 ## THEME PROVIDED BY SCOTCH.IO
 * [Demo](http://scotch-io.github.io)
