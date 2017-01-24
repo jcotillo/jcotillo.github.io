@@ -14,7 +14,7 @@ Full stack web developer with experience with Ruby on Rails & JavaScript in the 
 
 ## EMPLOYMENT
 
-### *Ruby on Rails Web Developer*, [Kipu Systems](http://kipusystems.com/) (July 2015 — Present)
+### *Ruby on Rails Web Developer*, [Kipu Systems](http://kipusystems.com/) (July 2015 — October 2016)
 
 Kipu Systems is a cloud based solution for medical record management in the substance abuse industry.   
   - Refactored and established a testing workflow.

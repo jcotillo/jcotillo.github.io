@@ -2,7 +2,7 @@
 layout: inner
 title: 'Hashing: A documentary'
 tags: hashtable miami
-featured_image: 'http://i.giphy.com/vPMnDdfHx13Bm.gif'
+featured_image: 'http://i.giphy.com/3o6Mbtvc62Nr24AzKM.gif'
 lead_text: 'When I live in Miami and everything reminds me of a rap song'
 ---
 Who knew that there could be so much more into hashing than simply the key-value pair storage? I had never given much though of how exactly that was possible. It turns out, there are many ways to compute values into a hash function. The most basic approach is taking the modulo remainder of the hash length and the value and storing it accordingly.
@@ -24,4 +24,4 @@ Cannot talking about hashing methods, without covering **Collision resolution te
   * With simple linear probing, the rehash function is newhashvalue = rehash(oldhashvalue) where rehash(pos)=(pos+1)%sizeoftable... 1 being the skip value. Note: a prime number ensures that the table is eventually distributed.
 3. A variation of the linear probing idea is called **quadratic probing**.
   * Instead of using a constant “skip” value, we use a rehash function that increments the hash value by 1, 3, 5, 7, 9, and so on. This skips a perfect squares succesives.
-4.  **Chaining**  allows many items to exist at the same location in the hash table. 
+4.  **Chaining**  allows many items to exist at the same location in the hash table.
