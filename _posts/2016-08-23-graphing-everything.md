@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'Graphing everything'
-tags: graphs miami
+tags: graphs 
 featured_image: 'http://i.giphy.com/NaQcE1kdEjZGo.gif'
 lead_text: 'you can literally graph anything at anytime.'
 ---
@@ -15,4 +15,4 @@ Graphs can represent any sort of relationship between objects. Out of the all da
 
  **path** a sequence of vertices that are connected by edges.
 
- **cycle** a directed graph that starts and ends at the same vertex. A graph with no cycle is "acyclic" and "DAG" is a directed acyclic graph. 
+ **cycle** a directed graph that starts and ends at the same vertex. A graph with no cycle is "acyclic" and "DAG" is a directed acyclic graph.
