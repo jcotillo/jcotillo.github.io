@@ -9,5 +9,3 @@ Yesterday night I went to my first tech event in Peru. I had stumbled upon WIT s
 ![alt text](assets/dev_ops_1.jpg "DevOps")
 
 It was a small and homey environment packed with information. As an American developer, it gave me a glimpse of the tech scene in Peru. It was competitive, informative and inspiring. The organizers of WIT do a great job of making you feel welcome whatever your level is. I personally struggle with professional Spanish and have never talked about APIs, data structures, design pattern, etc in my native tongue before. The team didn't judge me and gave me many interesting points to consider as I continue to grow as a developer.
-
-I
