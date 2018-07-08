@@ -32,6 +32,6 @@ An event-tracking tool that rewards users and small businesses with economic  in
 
 ## EDUCATION
 
-### Ironhack (2015-01 — 2015-01)
+### Ironhack (2015)
 
-### Boston University (2010-01 — 2014-01)
+### B.A. Economics, International Relations - Boston University, Cum Laude (2014)
