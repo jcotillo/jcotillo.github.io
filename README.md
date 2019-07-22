@@ -1,1 +1,1 @@
-Personal portofolio built on top of HydeJack, a Jekyll template. 
+Personal portofolio built on top of [HydeJack](https://github.com/qwtel/hydejack), a Jekyll template. 

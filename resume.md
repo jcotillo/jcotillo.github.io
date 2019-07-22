@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Resume
+cover: true
 ---
 Full-stack engineer passionate about mission-driven software. 
 

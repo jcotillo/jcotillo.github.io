@@ -3,8 +3,7 @@ layout: page
 title:  Resume
 order: 1
 ---
-Full-stack engineer passionate about mission-driven software. 
-
+<!-- Full-stack engineer passionate about mission-driven software.  -->
 ## TECHNOLOGIES
 
   - **Expertise**:
